@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\(D) Documents\Capita\Novus\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
