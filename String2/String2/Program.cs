@@ -11,5 +11,25 @@ namespace String2
         static void Main(string[] args)
         {
         }
+
+        public String doubleChar(String str)
+        {
+            String result = "";
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                result = result + str[i];
+                result = result + str[i];
+            }
+            return result;
+        }
+
+        public int countHi(String str)
+        {
+            for (int i = 0; i<str.Length; i++)
+            {
+                
+            }
+        }
     }
 }
