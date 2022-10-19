@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\bin\Debug\Number1-99.exe.config
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\bin\Debug\Number1-99.exe
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\bin\Debug\Number1-99.pdb
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\obj\Debug\Number1-99.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\obj\Debug\Number1-99.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\obj\Debug\Number1-99.exe
+D:\(D) Documents\Capita\Novus\Number1-99\Number1-99\obj\Debug\Number1-99.pdb
