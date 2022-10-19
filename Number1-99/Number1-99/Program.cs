@@ -17,7 +17,7 @@ namespace Number1_99
             int ranNum = random.Next(1,99);
 
             //to test the game
-            //Console.WriteLine($"The number is {ranNum}");
+            Console.WriteLine($"The number is {ranNum}");
 
             for (int i = 0; i < 5; i++)
             {
@@ -34,10 +34,11 @@ namespace Number1_99
                 }
                 else
                 {
-                    Console.WriteLine($"CONGRATULATIONS THE ANSWER WAS {ranNum}");
+                    Console.WriteLine($"CONGRATULATIONS THE ANSWER WAS {ranNum} \n");
+                    break;
                 }
             }
-            Console.WriteLine("THE GAME IS FINISHED");
+            Console.WriteLine("THE GAME IS NOW FINISHED");
             Console.ReadLine();
         }
     }
