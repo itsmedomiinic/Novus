@@ -16,7 +16,8 @@ namespace Number1_99
 
             int ranNum = random.Next(1,99);
 
-            Console.WriteLine($"The number is{ranNum}");
+            //to test the game
+            //Console.WriteLine($"The number is {ranNum}");
 
             for (int i = 0; i < 5; i++)
             {
@@ -26,8 +27,6 @@ namespace Number1_99
                 if (guess > ranNum)
                 {
                     Console.WriteLine("LOWER");
-                    //Console.WriteLine("Guess the number?: ");
-                    //guess = Convert.ToInt32(Console.ReadLine());
                 }
                 else if (guess < ranNum)
                 {
@@ -38,10 +37,8 @@ namespace Number1_99
                     Console.WriteLine($"CONGRATULATIONS THE ANSWER WAS {ranNum}");
                 }
             }
-
             Console.WriteLine("THE GAME IS FINISHED");
             Console.ReadLine();
-
         }
     }
 }
