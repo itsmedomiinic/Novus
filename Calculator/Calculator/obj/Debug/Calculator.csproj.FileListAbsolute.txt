@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\(D) Documents\Capita\Novus\Calculator\Calculator\obj\Debug\Calculator.pdb
