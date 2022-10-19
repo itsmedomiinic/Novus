@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\(D) Documents\Capita\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
