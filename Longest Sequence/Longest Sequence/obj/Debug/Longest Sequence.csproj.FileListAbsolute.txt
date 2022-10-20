@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe.config
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.pdb
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.exe
+D:\(D) Documents\Capita\Novus\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.pdb
