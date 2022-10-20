@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+D:\(D) Documents\Capita\Novus\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
