@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\bin\Debug\Stars on Screen.exe.config
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\bin\Debug\Stars on Screen.exe
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\bin\Debug\Stars on Screen.pdb
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\obj\Debug\Stars on Screen.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\obj\Debug\Stars on Screen.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\obj\Debug\Stars on Screen.exe
+D:\(D) Documents\Capita\Novus\Stars on Screen\Stars on Screen\obj\Debug\Stars on Screen.pdb
