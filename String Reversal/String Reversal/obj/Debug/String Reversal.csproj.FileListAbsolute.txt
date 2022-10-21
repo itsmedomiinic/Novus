@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\bin\Debug\String Reversal.exe.config
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\bin\Debug\String Reversal.exe
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\bin\Debug\String Reversal.pdb
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\obj\Debug\String Reversal.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\obj\Debug\String Reversal.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\obj\Debug\String Reversal.exe
+D:\(D) Documents\Capita\Novus\String Reversal\String Reversal\obj\Debug\String Reversal.pdb
