@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\bin\Debug\Star - Diamond.exe.config
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\bin\Debug\Star - Diamond.exe
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\bin\Debug\Star - Diamond.pdb
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\obj\Debug\Star - Diamond.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\obj\Debug\Star - Diamond.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\obj\Debug\Star - Diamond.exe
+D:\(D) Documents\Capita\Novus\Star - Diamond\Star - Diamond\obj\Debug\Star - Diamond.pdb
