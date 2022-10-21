@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\bin\Debug\Sum of Digits.exe.config
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\bin\Debug\Sum of Digits.exe
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\bin\Debug\Sum of Digits.pdb
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\obj\Debug\Sum of Digits.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\obj\Debug\Sum of Digits.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\obj\Debug\Sum of Digits.exe
+D:\(D) Documents\Capita\Novus\Sum of Digits\Sum of Digits\obj\Debug\Sum of Digits.pdb
