@@ -1,0 +1,7 @@
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\bin\Debug\Prime at Nth Position.exe.config
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\bin\Debug\Prime at Nth Position.exe
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\bin\Debug\Prime at Nth Position.pdb
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\obj\Debug\Prime at Nth Position.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\obj\Debug\Prime at Nth Position.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\obj\Debug\Prime at Nth Position.exe
+D:\(D) Documents\Capita\Novus\Prime at Nth Position\Prime at Nth Position\obj\Debug\Prime at Nth Position.pdb
