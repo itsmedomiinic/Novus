@@ -1,0 +1,16 @@
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\NUnit3.TestAdapter.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\NUnit3.TestAdapter.pdb
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\nunit.engine.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\nunit.engine.api.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\nunit.engine.core.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\The Areas Program.exe.config
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\The Areas Program.exe
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\The Areas Program.pdb
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\nunit.framework.dll
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\bin\Debug\nunit.framework.xml
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\obj\Debug\The Areas Program.csproj.AssemblyReference.cache
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\obj\Debug\The Areas Program.csproj.CoreCompileInputs.cache
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\obj\Debug\The Areas Program.exe
+D:\(D) Documents\Capita\Novus\The Areas Program\The Areas Program\obj\Debug\The Areas Program.pdb
