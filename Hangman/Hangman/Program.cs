@@ -18,31 +18,44 @@ namespace Hangman
                 "OKAY", "CODING", "NOVUS", "SOFTWARE", "DEVELOPER", "GRADUATE" };
 
             var ranWord = words[new Random().Next(0, 10)];
-            //char[] ranWordArray = ranWord.ToCharArray();
+
+            char[] ranWordArray = ranWord.ToCharArray();
 
             var guesses = new List<char>();
 
-            int counter = -1;
             char[] guessed = new char[ranWord.Length];
-            foreach (char letter in guessed)
-            {
-                counter++;
-                guessed[counter] = '-';
-            }
+            
             //Console.WriteLine(guessed);
 
             Console.WriteLine($"{ranWord}");
+
+            //char guess;
             
             while (lives > 0)
             {
+                
+
                 Console.WriteLine();
                 Console.WriteLine(guessed);
 
                 Console.WriteLine("Guess a letter in the word: ");
 
-                char guess = Console.ReadLine()[0];
+                var guess = Console.ReadLine()[0];
 
-                
+                int counter = -1;
+                foreach (char letter in guessed)
+                {
+                    if (ranWordArray[counter+1] == guess)
+                    {
+                        counter++;
+                        guessed[counter] = guess;
+                    }
+                    else
+                    {
+                        counter++;
+                        guessed[counter] = '-';
+                    }
+                }
 
                 if (ranWord.Contains(guess) | guesses.Contains(guess))
                 {
