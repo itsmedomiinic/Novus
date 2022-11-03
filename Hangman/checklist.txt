@@ -1,0 +1,6 @@
+- make sure only letters A-Z are guessed
+  - toUpper guess
+
+- convert guessed characters to string - to compare with the ranWord for victory conditions
+  
+- set the guessed characters in the right position to update guess progress
